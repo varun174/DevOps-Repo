@@ -1,1 +1,1 @@
-name = input("Enter your name: varun")
+name = input("Enter your name: varu")
