@@ -1,1 +1,1 @@
-DROP TABLE IF EXISTS employees;
+DRP TABLE IF EXISTS employees;
